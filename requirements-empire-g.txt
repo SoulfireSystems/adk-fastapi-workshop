@@ -1,0 +1,4 @@
+# Match the existing workshop generation in an isolated virtual environment.
+# Upgrade intentionally after verifying the original examples and new agents.
+google-adk==1.18.0
+python-dotenv>=1.0.1,<2
